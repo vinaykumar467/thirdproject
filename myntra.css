@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Styled Page</title>
+    <!-- Link to the external CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p class="intro-text">This is a styled paragraph.</p>
+    <button id="main-btn">Click Me</button>
+</body>
+</html>
